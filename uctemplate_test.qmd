@@ -4,8 +4,8 @@ fromtitle: "Distinguished Professor"
 fromsignature: digisig.png
 fromcampus: DAVIS 
 fromdept: DEPARTMENT OF LITERAE HUMANIORES
-fromemail: earauchway@ucdavis.edu
-fromtel: "+1 520 754 1646"
+fromemail: scrawl@ucdavis.edu
+fromtel: "+1 520 755 1645"
 fromstreet: "ONE SHIELDS AVENUE"
 fromcitystzip: "DAVIS, CA 95616" 
 fromother:
