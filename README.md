@@ -9,6 +9,6 @@ You should find you can use this template for a new letter, by executing
 
 `quarto use template erauchway/uc-quarto-letter`
 
-This should install the extension and the example files, including a sample letter like this one.
+This should install the extension and the example files, including a sample letter.
 
-![](uctemplate_test.pdf)
+![](http://github.com/erauchway/uc-quarto-letter/uctemplate_test.png)
