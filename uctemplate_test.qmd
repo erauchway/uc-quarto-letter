@@ -1,0 +1,32 @@
+---
+fromname: "Illegible Scrawl"
+fromtitle: "Distinguished Professor"
+fromsignature: digisig.png
+fromcampus: DAVIS 
+fromdept: DEPARTMENT OF LITERAE HUMANIORES
+fromemail: earauchway@ucdavis.edu
+fromtel: "+1 520 754 1646"
+fromstreet: "ONE SHIELDS AVENUE"
+fromcitystzip: "DAVIS, CA 95616" 
+fromother:
+toname: Sylvia Beach
+toaddress:
+  - Shakespeare and Company
+  - Paris
+opening: "Dear Ms Beach"
+closing: "Yours sincerely"
+spacing: 1.4
+ps: |
+  PS: I forgot to say this in the body of the letter so I'm adding it now.
+format: ucletter-pdf
+---
+
+Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressing gown, ungirdled, was sustained gently-behind him by the mild morning air. He held the bowl aloft and intoned:
+
+> Introibo ad altare Dei.
+
+Halted, he peered down the dark winding stairs and called up coarsely:
+
+> Come up, Kinch. Come up, you fearful jesuit.
+
+Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding country and the awaking mountains. 

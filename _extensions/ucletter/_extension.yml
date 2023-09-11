@@ -1,0 +1,8 @@
+title: UC Letter Format Template
+author: Eric Rauchway, based on Monash letter format by Rob J Hyndman
+version: 0.1.0
+contributes:
+  formats:
+    pdf:
+      template: ucletter.tex
+      pdf-engine: pdflatex
