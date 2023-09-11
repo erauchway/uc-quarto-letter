@@ -11,4 +11,4 @@ You should find you can use this template for a new letter, by executing
 
 This should install the extension and the example files, including a sample letter.
 
-![](http://github.com/erauchway/uc-quarto-letter/uctemplate_test.png)
+![Sample letter](uctemplate_test.png)
