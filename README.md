@@ -7,6 +7,6 @@ The repository includes a template that lets you see the options, which include 
 
 You should find you can use this template for a new letter, by executing
 
-` quarto use template erauchway/uc-quarto-letter`
+`quarto use template erauchway/uc-quarto-letter`
 
 This should install the extension and the example files.
