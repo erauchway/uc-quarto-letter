@@ -173,7 +173,8 @@ $if(dir)$
 \fi
 $endif$
 
-\usepackage{color,hyperref,url,fontawesome}
+\usepackage{color,url,fontawesome}
+\usepackage[hidelinks]{hyperref}
 \urlstyle{same}  % don't use monospace font for urls
 \usepackage[absolute,overlay]{textpos}
 \setlength{\TPHorizModule}{1cm}
@@ -225,7 +226,7 @@ $endif$
 \begin{textblock}{18.6}(1.5,2.5)
 \vspace{15 truept}
 \setstretch{0.75}
-\smallheadfont $if(fromdept)$$fromdept$ $else$ \hphantom{.} $endif$ \hfill $if(fromemail)$$fromemail$ $else$ $endif$ \\ $if(fromstreet)$$fromstreet$ $else$ \hphantom{.} $endif$ \hfill $if(fromtel)$$fromtel$ $else$ $endif$ \\ $if(fromcitystzip)$$fromcitystzip$, USA $else$ \hphantom{.} $endif$ \hfill $if(fromother)$$fromother$ $else$ $endif$
+\smallheadfont $if(fromdept)$$fromdept$ $else$ \hphantom{.} $endif$ \hfill $if(fromemail)$$fromemail$ $else$ $endif$ \\ $if(fromstreet)$$fromstreet$ $else$ \hphantom{.} $endif$ \hfill $if(fromtel)$$fromtel$ $else$ $endif$ \\ $if(fromcitystzip)$$fromcitystzip$ USA $else$ \hphantom{.} $endif$ \hfill $if(fromother)$$fromother$ $else$ $endif$
 
 \end{textblock}
 \vspace{40 truept}
